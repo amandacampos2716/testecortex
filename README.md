@@ -10,6 +10,7 @@
 
 - :heavy_check_mark: Instalar NodeJs 16.17.0
 - :heavy_check_mark: Executar comando "npm install" para instalar as dependências
+- :heavy_check_mark: Exercício 1 - Para visualização desse exercício acessar a pasta exercício 1
 - :heavy_check_mark: Exercício 2 - Para esse exercício foi utilizado o framework de automação de teste Jest. Para executar utilizar o comando: "npm run test:api"
 - :heavy_check_mark: Exercício 3 - Para esse exercício foi utilizado o framework de automação de teste Cypress. Para executar utilizar o comando: "npm run test:web"
 
